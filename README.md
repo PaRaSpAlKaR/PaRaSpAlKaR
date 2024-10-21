@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaRaSpAlKaR
+- 👋 Hi, I’m @ParasPalkar
 - 👀 I’m interested in ...software development, open-source projects,programming languages
 - 🌱 I’m currently learning ... new programming languages, web development frameworks
 - 💞️ I’m looking to collaborate on ...open-source projects, tech innovations
